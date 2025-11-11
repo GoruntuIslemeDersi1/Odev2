@@ -1,2 +1,2 @@
 # Odev2
-Ödev 2 de yapmış olduğumuz kodları bu repoya ekleyiniz.
+Tüm ödev dosyaları kişiye özel bir klasör içine yüklenmelidir. Örnek klasör adı: 24537676019_Ad-Soyad_Odev2
